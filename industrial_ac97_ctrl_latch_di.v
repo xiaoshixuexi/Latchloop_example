@@ -1,4 +1,4 @@
-module ac97_ctrl (
+module top (
 x1542,
 x1203,
 x806,
