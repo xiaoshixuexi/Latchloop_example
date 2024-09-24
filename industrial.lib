@@ -1,4 +1,4 @@
-library (tau2015_ac97_ctrl_Late) {
+library (tau2015) {
 
 delay_model : table_lookup;
 
