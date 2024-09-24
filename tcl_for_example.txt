@@ -1,0 +1,5 @@
+read_liberty simple.lib
+read_verilog example.v
+link_design top
+read_sdc example.sdc
+time {report_checks}
