@@ -1,5 +1,5 @@
 read_liberty industrial.lib
-read_verilog industrial_ac97_ctrl_latch_di.v
+read_verilog industrial_divergent_loop.v
 link_design top
 read_sdc industrial.sdc
 time {report_checks}
